@@ -56,7 +56,7 @@ console.log(number);
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
-let sootrazione = 4 - x;
+let sottrazione = 4 - x;
 console.log(sottrazione);
 
 /* ESERCIZIO 7
