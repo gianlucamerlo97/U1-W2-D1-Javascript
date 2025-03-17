@@ -48,10 +48,7 @@ console.log(x);
 */
 
 myName = "Merlo";
-const number = 1;
-const number = 0;
-let number = 0;
-console.log(number);
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
